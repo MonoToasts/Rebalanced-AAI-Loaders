@@ -1,0 +1,9 @@
+{
+    "name": "Rebalanced-AAI-Loaders",
+    "version": "0.1.1",
+    "title": "Rebalanced AAI Loaders",
+    "author": "MonoToast",
+    "dependencies": ["base", "aai-loaders >= 0.2.4"],
+    "description": "Rebalances the cost of the AAI loaders by including the last tier in the recipe. Supports the new Factorio Space Age expansion with configurable cost and electricity multipliers.",
+    "factorio_version": "2.0"
+  }  
